@@ -1,13 +1,4 @@
-497BE1E250515157382E3120FF0F0F05:
-  ADS1x15 ADC 0x48 Ch0:
-    value_1: '1'
-    value_2: '2'
-  ADS1x15 ADC 0x48 Ch1:
-    value_1: '1'
-    value_2: '2'
-  ADS1x15 ADC 0x48 Ch2:
-    value_1: '1'
-    value_2: '2'
-  ADS1x15 ADC 0x48 Ch3:
-    value_1: '1'
-    value_2: '2'
+ADS1x15 ADC 0x48 Ch0: 0.30343739999999997
+ADS1x15 ADC 0x48 Ch1: 0.303375
+ADS1x15 ADC 0x48 Ch2: 0.3032502
+ADS1x15 ADC 0x48 Ch3: 0.3032502
